@@ -1,1 +1,2 @@
 Adding first line to first file
+Adding third line to first file
